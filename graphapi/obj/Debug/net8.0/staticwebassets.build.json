@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qMP3SiULpNEiglBRKdaxYdLmJY9WdtTOREcDAO3GHzM=",
+  "Source": "graphapi",
+  "BasePath": "_content/graphapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
